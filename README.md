@@ -51,7 +51,7 @@ This applicaiton will support, technologies such as TypeScript, Sass, Babel, hot
 **Git clone**
 
 ```
-git clone https://github.com/almoggutin/Webpack-Example.git
+git clone https://github.com/almoggutin/Webpack-5-Example.git
 ```
 
 **Instructions**
